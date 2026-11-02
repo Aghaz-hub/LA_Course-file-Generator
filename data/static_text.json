@@ -1,0 +1,764 @@
+{
+ "university": {
+  "name": "Manav Rachna University (MRU)",
+  "vision": "To educate students in frontier areas of knowledge enabling them to take up challenges as ethical and responsible global citizens.",
+  "mission": [
+   "To impart outcome based holistic education",
+   "To disseminate education in frontier areas",
+   "To produce globally competitive, ethical and socially responsible human resources",
+   "To produce human resources sensitive to issues of Environment and Sustainable Development",
+   "To develop Environment and Sustainable development as a thrust area of research and development."
+  ]
+ },
+ "school": {
+  "name": "School of Engineering (SoE)",
+  "vision": "To build a future where education and innovation, empowered by collaboration, create a sustainable global impact.",
+  "mission": [
+   "SM1 Quality Education: Provide a rigorous, industry-aligned education that equips students with the foundational knowledge and technical expertise to excel in the academic and professional world.",
+   "SM2 Skill Development: Enhance skills by integrating hands-on learning experiences to promote critical thinking, problem-solving, and creativity.",
+   "SM3 Research and Innovation: Foster a culture of research and innovation that leads to new technologies and solutions to real-world problems.",
+   "SM4 Industry Collaboration: Build strong, strategic partnerships with industry leaders to bridge the gap between academic learning and real-world application.",
+   "SM5 Ethics and Sustainability: Nurture engineers to prioritize ethical decision-making for developing responsible solutions with a focus on a sustainable future."
+  ]
+ },
+ "departments": {
+  "CST": {
+   "name": "Department of Computer Science & Technology (DoCST)",
+   "vision": "To be a role model computer science department which imparts research based multidisciplinary competencies to foster innovation, creativity and ethical responsibility among students for transformative change in society and industry with sustainable solutions.",
+   "mission": [
+    "DM1 Quality Education: Build student competency through industry-aligned curriculum delivered through relevant pedagogy and assessment.",
+    "DM2 Skill Development: Deploy employability skills in students by integrating hands-on learning labs experiences, interdisciplinary projects, and internships to imbibe critical thinking, problem solving, and creativity.",
+    "DM3 Research and Innovation: Collaborate with NI institutions and industry to foster a culture of research and innovation by supporting interdisciplinary projects.",
+    "DM4 Industry Collaboration: Build strong, strategic partnerships with industry for capacity building in innovation and real time knowledge.",
+    "DM5 Ethics and Sustainability: To produce ethical and socially responsible engineers who are allied with sustainable solutions for the industry."
+   ]
+  },
+  "ME": {
+   "name": "Department of Mechanical Engineering (DoME)",
+   "vision": "To be a center to nurture competent mechanical engineers equipped with strong technical knowledge, innovative thinking and ethical values, who contribute globally to industry, research and society through sustainable and future ready solutions.",
+   "mission": [
+    "To provide quality education in mechanical engineering through an industry-aligned curriculum, hands-on learning, and modern pedagogical practices that foster technical excellence and lifelong learning.",
+    "To equip students with globally relevant technical and professional skills through hands-on training, internships, industrial exposure, and problem to project based learning, to make them ready for successful careers.",
+    "To cultivate a research-driven mindset by fostering innovation, multidisciplinary projects, and collaboration that address emerging challenges in science and technology",
+    "To nurture socially responsible engineers by instilling ethical values and environmental consciousness to make them industry ready to deliver sustainable engineering design and decision-making.",
+    "To strengthen industry-institute partnerships and community engagement for solving real-world problems, enhancing industrial relevance, and contributing to societal needs."
+   ]
+  }
+ },
+ "graduate_attributes": [
+  {
+   "code": "GA1",
+   "title": "Engineering Knowledge",
+   "description": "Breadth, depth and type of knowledge, both theoretical and practical",
+   "wa_code": "WA1",
+   "wa": "Apply knowledge of mathematics, natural science, computing and engineering fundamentals, and an engineering specialization as specified in WK1 to WK4 respectively to develop solutions to complex engineering problems."
+  },
+  {
+   "code": "GA2",
+   "title": "Problem Analysis",
+   "description": "Complexity of analysis",
+   "wa_code": "WA2",
+   "wa": "Identify, formulate, research literature and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences and engineering sciences with holistic considerations for sustainable development (WK1 to WK4)."
+  },
+  {
+   "code": "GA3",
+   "title": "Design/development of solutions",
+   "description": "Breadth and uniqueness of engineering problems i.e., the extent to which problems are original and to which solutions have not previously been identified or codified",
+   "wa_code": "WA3",
+   "wa": "Design creative solutions for complex engineering problems and design systems, components or processes to meet identified needs with appropriate consideration for public health and safety, whole-life cost, net zero carbon as well as resource, cultural, societal, and environmental considerations as required (WK5)."
+  },
+  {
+   "code": "GA4",
+   "title": "Investigation",
+   "description": "Breadth and depth of investigation and experimentation",
+   "wa_code": "WA4",
+   "wa": "Conduct investigations of complex engineering problems using research methods including research-based knowledge, design of experiments, analysis and interpretation of data, and synthesis of information to provide valid conclusions (WK8)."
+  },
+  {
+   "code": "GA5",
+   "title": "Tool Usage",
+   "description": "Level of understanding of the appropriateness of technologies and tools",
+   "wa_code": "WA5",
+   "wa": "Create, select and apply, and recognize limitations of appropriate techniques, resources, and modern engineering and IT tools, including prediction and modelling, to complex engineering problems (WK2 and WK6)."
+  },
+  {
+   "code": "GA6",
+   "title": "The Engineer and the World",
+   "description": "Level of knowledge and responsibility for sustainable development",
+   "wa_code": "WA6",
+   "wa": "When solving complex engineering problems, analyze and evaluate sustainable development impacts to: society, the economy, sustainability, health and safety, legal frameworks, and the environment (WK1, WK5, and WK7)."
+  },
+  {
+   "code": "GA7",
+   "title": "Ethics",
+   "description": "Understanding and level of practice",
+   "wa_code": "WA7",
+   "wa": "Apply ethical principles and commit to professional ethics and norms of engineering practice and adhere to relevant national and international laws. Demonstrate an understanding of the need for diversity and inclusion (WK9)."
+  },
+  {
+   "code": "GA8",
+   "title": "Individual and Collaborative Team work",
+   "description": "Role in and diversity of team",
+   "wa_code": "WA8",
+   "wa": "Function effectively as an individual, and as a member or leader in diverse and inclusive teams and in multi-disciplinary, face-to-face, remote and distributed settings (WK9)."
+  },
+  {
+   "code": "GA9",
+   "title": "Communication",
+   "description": "Level of communication according to type of activities performed",
+   "wa_code": "WA9",
+   "wa": "Communicate effectively and inclusively on complex engineering activities with the engineering community and with society at large, such as being able to comprehend and write effective reports and design documentation, make effective presentations, taking into account cultural, language, and learning differences."
+  },
+  {
+   "code": "GA10",
+   "title": "Project Management and Finance",
+   "description": "Level of management required for differing types of activity",
+   "wa_code": "WA10",
+   "wa": "Apply knowledge and understanding of engineering management principles and economic decision-making and apply these to one’s own work, as a member and leader in a team, and to manage projects and in multidisciplinary environments."
+  },
+  {
+   "code": "GA11",
+   "title": "Lifelong learning",
+   "description": "Duration and manner",
+   "wa_code": "WA11",
+   "wa": "Recognize the need for, and have the preparation and ability for i) independent and life-long learning ii) adaptability to new and emerging technologies and iii) critical thinking in the broadest context of technological change (WK8)."
+  }
+ ],
+ "peos": {
+  "CSE": [
+   {
+    "code": "PEO1",
+    "title": "Core Competency",
+    "text": "To inculcate analytical, design and implementation skills required to provide solutions to computing and interdisciplinary problems."
+   },
+   {
+    "code": "PEO2",
+    "title": "Breadth",
+    "text": "To groom graduates to innovate, design and develop products to provide sustainable solutions to contemporary societal, environmental and business problems."
+   },
+   {
+    "code": "PEO3",
+    "title": "Professionalism",
+    "text": "To instill the ability to work in teams, communicate effectively and lead as ethically and socially responsible professionals, researchers and entrepreneurs."
+   },
+   {
+    "code": "PEO4",
+    "title": "Life Long Learning",
+    "text": "To foster the ability of lifelong learning to constantly adapt to emerging technologies, to pursue higher education and instill life skills for a successful career."
+   }
+  ],
+  "ME": [
+   {
+    "code": "PEO1",
+    "title": "",
+    "text": "Graduates will demonstrate strong technical knowledge and problem-solving skills in mechanical engineering, smart manufacturing, and electric vehicle technologies in their chosen career."
+   },
+   {
+    "code": "PEO2",
+    "title": "",
+    "text": "Graduates will pursue successful careers in global industries or as entrepreneurs by continuously upgrading their skills through modern tools and technologies."
+   },
+   {
+    "code": "PEO3",
+    "title": "",
+    "text": "Graduates will engage in research, innovation, and higher studies by applying modern tools, data-driven approaches, and interdisciplinary knowledge to address emerging technological challenges in mobility and manufacturing sector."
+   },
+   {
+    "code": "PEO4",
+    "title": "",
+    "text": "Graduates will practice engineering with a commitment to ethical values, sustainability, and societal well-being, contributing responsibly to the society."
+   },
+   {
+    "code": "PEO5",
+    "title": "",
+    "text": "Graduates will exhibit effective leadership, teamwork, and communication skills in multidisciplinary environments, enabling them to collaborate, manage, and deliver impactful engineering solutions."
+   }
+  ]
+ },
+ "pos": [
+  {
+   "code": "PO1",
+   "title": "Engineering Knowledge",
+   "text": "Apply knowledge of mathematics, natural science, computing, engineering fundamentals and an engineering specialization as specified in WK1 to WK4 respectively to develop to the solution of complex engineering problems."
+  },
+  {
+   "code": "PO2",
+   "title": "Problem Analysis",
+   "text": "Identify, formulate, review research literature and analyze complex engineering problems reaching substantiated conclusions with consideration for sustainable development. (WK1 to WK4)"
+  },
+  {
+   "code": "PO3",
+   "title": "Design/Development of Solutions",
+   "text": "Design creative solutions for complex engineering problems and design/develop systems/components/processes to meet identified needs with consideration for the public health and safety, whole-life cost, net zero carbon, culture, society and environment as required. (WK5)"
+  },
+  {
+   "code": "PO4",
+   "title": "Conduct Investigations of Complex Problems",
+   "text": "Conduct investigations of complex engineering problems using research-based knowledge including design of experiments, modelling, analysis & interpretation of data to provide valid conclusions. (WK8)."
+  },
+  {
+   "code": "PO5",
+   "title": "Engineering Tool Usage",
+   "text": "Create, select and apply appropriate techniques, resources and modern engineering & IT tools, including prediction and modelling recognizing their limitations to solve complex engineering problems. (WK2 and WK6)"
+  },
+  {
+   "code": "PO6",
+   "title": "The Engineer and The World",
+   "text": "Analyze and evaluate societal and environmental aspects while solving complex engineering problems for its impact on sustainability with reference to economy, health, safety, legal framework, culture and environment. (WK1, WK5, and WK7)."
+  },
+  {
+   "code": "PO7",
+   "title": "Ethics",
+   "text": "Apply ethical principles and commit to professional ethics, human values, diversity and inclusion; adhere to national & international laws. (WK9)"
+  },
+  {
+   "code": "PO8",
+   "title": "Individual and Collaborative Team work",
+   "text": "Function effectively as an individual, and as a member or leader in diverse/multi-disciplinary teams."
+  },
+  {
+   "code": "PO9",
+   "title": "Communication",
+   "text": "Communicate effectively and inclusively within the engineering community and society at large, such as being able to comprehend and write effective reports and design documentation, make effective presentations considering cultural, language, and learning differences."
+  },
+  {
+   "code": "PO10",
+   "title": "Project Management and Finance",
+   "text": "Apply knowledge and understanding of engineering management principles and economic decision-making and apply these to one’s own work, as a member and leader in a team, and to manage projects and in multidisciplinary environments."
+  },
+  {
+   "code": "PO11",
+   "title": "Life-Long Learning",
+   "text": "Recognize the need for, and have the preparation and ability for i) independent and life-long learning ii) adaptability to new and emerging technologies and iii) critical thinking in the broadest context of technological change."
+  }
+ ],
+ "psos": {
+  "CSE": [
+   {
+    "code": "PSO1",
+    "text": "Attain the ability to design and develop computer programs and possess acquaintance with emerging technologies and open-source platforms in the area of mobile app development, artificial intelligence, machine learning, generative AI, web development, data analytics, cloud computing, networking, cyber security, quantum computing, gaming and animation to build effective computer-based systems."
+   },
+   {
+    "code": "PSO2",
+    "text": "Acquire technical competency to deliver computer based innovative and effective solutions to tackle business and societal challenges, for pursuing a successful career, entrepreneurship, research and higher studies."
+   }
+  ],
+  "ME": [
+   {
+    "code": "PSO1",
+    "text": "Students will be able to apply mechanical engineering tools and sustainable practices to analyze and solve engineering problems, considering technical, economic, environmental, and ethical aspects relevant to societal needs."
+   },
+   {
+    "code": "PSO2",
+    "text": "Students will be able to apply automation, CAD/CAM, sensors, industrial IoT, and data analytics to monitor, control and improve manufacturing processes in line with Industry 4.0 principles."
+   },
+   {
+    "code": "PSO3",
+    "text": "Students will be able to design, analyze, and implement key components of electric vehicle systems including electric drives, battery management systems, power electronics, and thermal systems (w.e.f July 2025)"
+   }
+  ]
+ },
+ "ksa": {
+  "WK": [
+   {
+    "code": "WK1",
+    "title": "Natural Sciences",
+    "text": "A systematic, theory-based understanding of the natural sciences applicable to the discipline and awareness of relevant social sciences."
+   },
+   {
+    "code": "WK2",
+    "title": "Mathematics",
+    "text": "Conceptually-based mathematics, numerical analysis, data analysis, statistics and formal aspects of computer and information science to support detailed analysis and modelling applicable to the discipline."
+   },
+   {
+    "code": "WK3",
+    "title": "Engineering Fundamentals",
+    "text": "A systematic, theory-based formulation of engineering fundamentals required in the engineering discipline."
+   },
+   {
+    "code": "WK4",
+    "title": "Specialist Knowledge",
+    "text": "Engineering specialist knowledge that provides theoretical frameworks and bodies of knowledge for the accepted practice areas in the engineering discipline; much is at the forefront of the discipline."
+   },
+   {
+    "code": "WK5",
+    "title": "Engineering Design",
+    "text": "Knowledge, including efficient resource use, environmental impacts, whole-life cost, re-use of resources, net zero carbon, and similar concepts, that supports engineering design and operations in a practice area."
+   },
+   {
+    "code": "WK6",
+    "title": "Engineering Practice",
+    "text": "Knowledge of engineering practice (technology) in the practice areas in the engineering discipline."
+   },
+   {
+    "code": "WK7",
+    "title": "Comprehension",
+    "text": "Knowledge of the role of engineering in society and identified issues in engineering practice in the discipline, such as the professional responsibility of an engineer to public safety and sustainable development."
+   },
+   {
+    "code": "WK8",
+    "title": "Research Literature",
+    "text": "Engagement with selected knowledge in the current research literature of the discipline, awareness of the power of critical thinking and creative approaches to evaluate emerging issues."
+   },
+   {
+    "code": "WK9",
+    "title": "Ethics, inclusive behavior and conduct",
+    "text": "Knowledge of professional ethics, responsibilities, and norms of engineering practice. Awareness of the need for diversity by reason of ethnicity, gender, age, physical ability etc. with mutual understanding and respect, and of inclusive attitudes."
+   }
+  ],
+  "SK": [
+   {
+    "code": "SK1",
+    "title": "Problem Solving",
+    "text": "Ability to identify, analyze, and solve complex engineering problems using logical reasoning and systematic methods."
+   },
+   {
+    "code": "SK2",
+    "title": "Design and Innovation",
+    "text": "Applying design thinking to develop creative, sustainable, and efficient engineering solutions."
+   },
+   {
+    "code": "SK3",
+    "title": "Use of Modern Tools",
+    "text": "Proficiency in tools such as CAD, simulation software, and data analytics to optimize engineering processes."
+   },
+   {
+    "code": "SK4",
+    "title": "Project Management",
+    "text": "Skills to manage projects effectively, including planning, execution, and monitoring of deliverables."
+   },
+   {
+    "code": "SK5",
+    "title": "Communication",
+    "text": "Clear and effective communication of ideas, designs, and reports to diverse audiences, including technical and non-technical stakeholders."
+   },
+   {
+    "code": "SK6",
+    "title": "Collaboration and Teamwork",
+    "text": "Working effectively in multidisciplinary teams to achieve shared objectives."
+   },
+   {
+    "code": "SK7",
+    "title": "Lifelong Learning",
+    "text": "Self-directed learning to stay updated with technological advancements and global trends."
+   },
+   {
+    "code": "SK8",
+    "title": "Research and Experimentation",
+    "text": "Skills to design experiments, analyze data, and apply research findings to engineering problems."
+   }
+  ],
+  "AK": [
+   {
+    "code": "AK1",
+    "title": "Ethical Responsibility",
+    "text": "Commitment to ethical decision-making, integrity, and professional conduct in engineering practice."
+   },
+   {
+    "code": "AK2",
+    "title": "Equity, Diversity, and Inclusion",
+    "text": "Respect for cultural, societal, and individual diversity, promoting inclusivity in engineering solutions."
+   },
+   {
+    "code": "AK3",
+    "title": "Sustainability Awareness",
+    "text": "Awareness of the need for sustainable development and the responsibility to minimize environmental impact."
+   },
+   {
+    "code": "AK4",
+    "title": "Global Awareness",
+    "text": "Understanding global challenges, such as climate change, and considering international perspectives in solutions."
+   },
+   {
+    "code": "AK5",
+    "title": "Accountability",
+    "text": "Taking responsibility for one's actions and decisions in professional practice."
+   },
+   {
+    "code": "AK6",
+    "title": "Leadership",
+    "text": "Inspiring and motivating teams to achieve shared goals with integrity and vision."
+   },
+   {
+    "code": "AK7",
+    "title": "Adaptability",
+    "text": "Embracing change, learning new tools, and adapting to evolving industry needs."
+   },
+   {
+    "code": "AK8",
+    "title": "Social Responsibility",
+    "text": "Commitment to contributing positively to society through engineering practices."
+   }
+  ]
+ },
+ "checklist": [
+  {
+   "kind": "section",
+   "text": "OUTCOME BASED CURRICULUM"
+  },
+  {
+   "kind": "item",
+   "no": "1.",
+   "text": "Vision and Mission of the University",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "2.",
+   "text": "Vision and Mission of the School",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "3.",
+   "text": "Vision and Mission of the Department, if applicable",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "4.",
+   "text": "GA’s, PEOs, POs and PSOs of the Program",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "5.",
+   "text": "List of KSA Profiles of the Program",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "6.",
+   "text": "Academic Calendar",
+   "default": ""
+  },
+  {
+   "kind": "section",
+   "text": "OUTCOME BASED COURSE DESIGN"
+  },
+  {
+   "kind": "item",
+   "no": "7.",
+   "text": "Setting CO Targets",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "8.",
+   "text": "Course Design of Theory component including the following",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "a.",
+   "text": "KSA Profile Elements of the Theory component",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "b.",
+   "text": "List of SDGs/Ethics/Skill Levels & NSQF levels",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "c.",
+   "text": "Course Objective and List of Course Outcomes",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "d.",
+   "text": "Mapping to Skill/Employment/Entrepreneurship",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "e.",
+   "text": "Relevance of the Theory component",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "f.",
+   "text": "Syllabus with Text books, Reference books, Online Resources, MOOCs",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "g.",
+   "text": "Lesson Plan including innovative pedagogies, ICT Tools and AI Integration",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "h.",
+   "text": "CO-PO Mapping",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "i.",
+   "text": "CO-KSA Mapping, including Course KSA’s, SDGs, Ethics, Skill Levels, NSQF Levels",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "j.",
+   "text": "Course Assessment Plan",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "9.",
+   "text": "Course Design of Lab component including the following",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "a.",
+   "text": "KSA Profile Elements of the Lab component",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "b.",
+   "text": "List of SDGs/Ethics/Skill Levels & NSQF levels",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "c.",
+   "text": "Course Objective and List of Course Outcomes",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "d.",
+   "text": "Mapping to Skill/Employment/Entrepreneurship",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "e.",
+   "text": "Relevance of the Lab Course",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "f.",
+   "text": "List of Experiments",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "g.",
+   "text": "Lab Text books, Reference books, Online Resources, MOOCs",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "h.",
+   "text": "Lesson Plan including innovative pedagogies, ICT Tools and AI Integration",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "i.",
+   "text": "CO-PO Mapping",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "j.",
+   "text": "CO-KSA Mapping, including Course KSA’s, SDGs, Ethics, Skill Levels, NSQF Levels",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "k.",
+   "text": "Course Assessment Plan",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "l.",
+   "text": "List of Miniprojects",
+   "default": ""
+  },
+  {
+   "kind": "section",
+   "text": "OUTCOME BASED TEACHING & LEARNING"
+  },
+  {
+   "kind": "item",
+   "no": "10.",
+   "text": "List of faculty members teaching the course",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "11.",
+   "text": "Time table of concerned faculty members teaching the course",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "12.",
+   "text": "Lecture Notes and PowerPoint handouts (10% of entire content)",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "13.",
+   "text": "Tutorials/Assignments",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "14.",
+   "text": "Solution of Tutorials/Assignments (2 each)",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "15.",
+   "text": "Mid-Sem Question Paper",
+   "default": "NA"
+  },
+  {
+   "kind": "item",
+   "no": "16.",
+   "text": "End-Term Question Paper",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "17.",
+   "text": "Solution of Mid-Sem and End-Term Question Papers",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "18.",
+   "text": "Question Papers / Continuous Assessment Question Sheets for all other assessment tools as per Course Assessment Plan",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "19.",
+   "text": "Rubrics for Lab assessments, miniprojects and case studies",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "20.",
+   "text": "Note on how the course can contribute to the ePortfolio of Students",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "21.",
+   "text": "Attendance Record for theory and labs",
+   "default": ""
+  },
+  {
+   "kind": "section",
+   "text": "OUTCOME-BASED ASSESSMENT & ATTAINMENT"
+  },
+  {
+   "kind": "item",
+   "no": "22.",
+   "text": "Continuous Evaluation for all Assessments as per Course Assessment Plan from ERP",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "23.",
+   "text": "Assessment-wise Marks Uploaded on ERP with CO-PO mapping",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "24.",
+   "text": "Records of Rubrics based Evaluation of Lab Assessments",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "25.",
+   "text": "Records of Assessments based on Student ePortfolios, if included in the CAP",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "26.",
+   "text": "Minutes of Course Coordinator Level Meetings with Feedback Analysis and Action Taken Report",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "27.",
+   "text": "CO attainment analysis and action taken for the course, including direct and indirect assessments from Phase 1 to Phase 3.",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "28.",
+   "text": "List of Slow Learners, Moderate Learners and Advanced Learners Uptill Dec 2025: (Slow Learners are those having an average Student CO attainment of less than 40% uptill Phase 1 of the semester (1 month into the semester) and the remaining are Advanced Learners). From Jan 2026: Slow Learners are those having an M-Score of less than 40% uptill Phase 1 of the semester (1 month into the semester) and Advanced Learners are those having an M-Score of greater than or equal to 75%). The remaining students are Moderate. Here, M-Score=C1*0.2+C2*0.8, where C1 is the aggregate marks of each student from the previous semester and C2 is the marks obtained for all assessments uptill Phase 1.",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "29.",
+   "text": "The action taken to support slow, moderate and advanced learners and progress of slow learners to be discussed from Phase 1 to Phase 3. For advanced learners their progress to be discussed in terms of participation in projects, hackathons, competitions, publications in conferences and journals, etc.",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "30.",
+   "text": "Impact Analysis Report and Action Taken for Next Academic Cycle",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "31.",
+   "text": "Alternative Plan of Action for the Next Academic Cycle",
+   "default": ""
+  },
+  {
+   "kind": "section",
+   "text": "APPENDICES (attach hardcopies of samples)"
+  },
+  {
+   "kind": "item",
+   "no": "A",
+   "text": "Sample hardcopies of Tutorials (6 samples: 2 for Slow, 2 for Moderate and 2 for Advanced Learners) and Assignments (6 samples: 2 for Slow, 2 for Moderate and 2 for Advanced Learners) submitted by students.",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "B",
+   "text": "Sample hardcopies of answer sheets of Mid-Sem Exams (6 samples: 2 for Slow, 2 for Moderate and 2 for Advanced Learners) and End-Term Exams (6 samples: 2 for Slow, 2 for Moderate and 2 for Advanced Learners)",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "C",
+   "text": "Evidence for pedagogy used",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "D",
+   "text": "Evidence for ICT Tools used",
+   "default": ""
+  },
+  {
+   "kind": "item",
+   "no": "E",
+   "text": "Evidence for AI integration/AI Tools used",
+   "default": ""
+  }
+ ]
+}

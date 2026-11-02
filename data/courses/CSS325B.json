@@ -1,0 +1,1384 @@
+{
+ "meta": {
+  "course_name": "Green Computing",
+  "course_code": "CSS325B",
+  "cover_title": "Green Computing",
+  "cover_code": "CSS325B",
+  "programs": "B Tech ME5 (SMA), B Tech CSE7/AIML7/CDFD7/CSTI7",
+  "program_line": "B Tech CSE7 & AIML7/CDFD7/CSTI7, B Tech ME-SMA5",
+  "ncrf_level": "Level 6 (for a Bachelors’ engineering degree program of 4 years)",
+  "coordinator": "Dr. Sachin Lakra",
+  "hod": "Dr. Vivek Sharma",
+  "session": "Jul-Dec, 2025",
+  "session_short": "ODD SEMESTER (JUL-DEC 2025)",
+  "ltpc": "1-0-2-2",
+  "theory_ltpc": "1-0-0-1",
+  "lab_ltpc": "0-0-2-1",
+  "theory_faculty": [
+   "Dr. Sachin Lakra"
+  ],
+  "lab_faculty": [
+   "Dr. Sachin Lakra"
+  ],
+  "dept_key": "CST",
+  "program_families": [
+   "CSE",
+   "ME"
+  ],
+  "course_type": "Program Core Course: for B Tech ME5(SMA), B Tech CSE7/AIML7/CDFD7/CSTI7",
+  "course_nature": "Core: for B Tech ME5(SMA), B Tech CSE7/AIML7/CDFD7/CSTI7",
+  "prerequisites": "NA",
+  "assumed_knowledge": "Awareness of issues causing harmful impact on the environment.",
+  "following_courses": "Environmental, Social and Governance (ESG) Courses",
+  "dated": "12/July/2025"
+ },
+ "co_targets": {
+  "dated": "12/July/2025",
+  "note": "Since the COs of the course were attained previously, the targets for this semester have been revised by 5% for CO1 and CO2.",
+  "targets": [
+   {
+    "co": "CSS325B.1",
+    "target": 65
+   },
+   {
+    "co": "CSS341B.2",
+    "target": 65
+   },
+   {
+    "co": "CSS341B.3",
+    "target": 60
+   },
+   {
+    "co": "CSS341B.4",
+    "target": 60
+   },
+   {
+    "co": "CSS341B.5",
+    "target": 60
+   }
+  ]
+ },
+ "co_levels": [
+  {
+   "criterion": ">=0 & <30",
+   "level": "No Attainment"
+  },
+  {
+   "criterion": ">=30 & <60",
+   "level": "1"
+  },
+  {
+   "criterion": ">=60 & <70",
+   "level": "2"
+  },
+  {
+   "criterion": ">=70 & <=100",
+   "level": "3"
+  }
+ ],
+ "theory": {
+  "title": "GREEN COMPUTING",
+  "code": "CSS325B",
+  "ltpc": "1-0-0-1",
+  "ksa": "WK5-Engineering Design\nWK7-Comprehension\nWK9-Ethics, inclusive behavior and conduct\nSK1-Problem Solving | AK1-Ethical Responsibility\nAK3-Sustainabilty Awareness\nAK4-Global Awareness",
+  "sdg": "SDG11-Sustainable Cities & Communities\nSDG13-Climate Action\nEthics-Yes\nSkill Levels – Basic (1), Applied (2)\nNSQF Levels – Supervisory (5)",
+  "objective": "Students will be able to comprehend sustainability (AK3, AK4) issues (WK7) and apply (SK1) green computing concepts (WK5) for ethically (AK1, WK9) solving environmental problems being caused by computing devices.",
+  "sdg_lines": [
+   "SDG11-Sustainable Cities & Communities",
+   "SDG13-Climate Action",
+   "Ethics-Yes",
+   "Skill Levels – Basic (1), Applied (2)",
+   "NSQF Levels – Supervisory (5)"
+  ],
+  "ksa_lines": [
+   "WK5-Engineering Design",
+   "WK7-Comprehension",
+   "WK9-Ethics, inclusive behavior and conduct",
+   "SK1-Problem Solving",
+   "AK1-Ethical Responsibility",
+   "AK3-Sustainabilty Awareness",
+   "AK4-Global Awareness"
+  ],
+  "cos": [
+   {
+    "id": "CSS325B.1",
+    "text": "Describe the basic concepts of green computing and e-waste management (WK5).",
+    "mapping": "-"
+   },
+   {
+    "id": "CSS325B.2",
+    "text": "Describe environmental problems being caused by electronic devices (WK7) and their ethical (AK1, WK9) and sustainable solutions (SK1, AK3, AK4).",
+    "mapping": "Skill Development"
+   },
+   {
+    "id": "CSS325B.3",
+    "text": "Apply (SK1) power management techniques in computers and datacenters (WK5).",
+    "mapping": "Employment and Skill Development"
+   },
+   {
+    "id": "CSS325B.4",
+    "text": "Apply (SK1) techniques of how to follow an environment-friendly lifestyle at work (AK3).",
+    "mapping": "Employment and Skill Development"
+   },
+   {
+    "id": "CSS325B.5",
+    "text": "Analyze (SK1) how to make information systems green (WK5).",
+    "mapping": "Employment and Skill Development"
+   }
+  ],
+  "relevance": "The environment is nature’s gift to humanity and it is our responsibility as well as ethical duty to preserve it since we are also a part of it. The survival of future generations of human beings as well as other organisms depends upon how sustainably we consume resources and for what purpose. Awareness related to climatic and environmental issues has already spread and the next fast-rising concerns are excessive waste heat from electronic devices and appliances, and the accumulation of e-waste. This course is focussed on these two concerns and how they can be mitigated. The need of this course in the industry is increasing with the introduction of concepts such as circular economy, recycling and reuse of throwable devices.",
+  "syllabus": {
+   "sections": [
+    {
+     "section": "A",
+     "weightage": 25,
+     "text": "Overview and Issues: Problems: Toxins, Power Consumption, Equipment Disposal; Company’s Carbon Footprint: Measuring; Carbon Footprint Calculator(online); Plan for the Future; Cost Savings: Hardware, Power, Ethics of Green Computing. Initiatives and Standards: Global Initiatives: United Nations, Basel Action Network, Basel Convention; WEEE Directive, Restriction on Hazardous Substances Directive, the Paris Climate Agreement."
+    },
+    {
+     "section": "B",
+     "weightage": 25,
+     "text": "Minimizing Power Usage: Power Problems, Monitoring Power Usage, Servers, Low-Cost Options, Reducing Power Use, Data De-Duplication, Virtualization, Management, Low Power Computers, PCs, Linux, Components, Servers, Computer Settings, Storage, Monitors, Power Supplies, Wireless Devices, Software. Green Data Centers:The benefits of a green data center, developing a strategy, Energy optimization with IT equipment."
+    },
+    {
+     "section": "C",
+     "weightage": 25,
+     "text": "Changing the Way of Work: Old Behaviours, starting at the Top, Process Reengineering with Green in Mind, Analysing the Global Impact of Local Actions, Recycling, Energy, Pollutants, Teleworkers, Telecommuting, Outsourcing, how to Outsource, Green Computing in Daily Life. Recycling: Problems: China, Africa; Materials, Means of Disposal, Recycling, Refurbishing, Recycling Life Cycle, Life of a Product, Cost, Green Design, Recycling Companies, Certifications, Hard Drive Recycling, Consequences, cleaning a Hard Drive, Pros and cons of each method, CDs and DVDs, good and bad about CDs and DVDs disposal, Change the mind-set."
+    },
+    {
+     "section": "D",
+     "weightage": 25,
+     "text": "Greening Your Information Systems: Initial Improvement Calculations, Change Business Processes, Customer Interaction, Paper Reduction, Green Supply Chain, Improve Technology Infrastructure, Reduce PCs and Servers, Shared Services, Hardware Costs, Cooling. Green Computing in Ancient India: Balance of life in Indian villages with nature: Use of biomass as fuel, no electricity; devices made of natural materials, absence of e-waste. Applications of Green Computing: Energy Efficiency of algorithms, Green Networks, Green Cloud Computing, Green Internet of Things, Green Artificial Intelligence, Relevance to Industry 4.0."
+    }
+   ],
+   "text_books": [
+    "Green IT, Toby Velte, Anthony Velte, Robert Elsenpeter, McGraw Hill, 2008.",
+    "Green Data Center: Steps for the Journey Alvin Galea, Michael Schaefer, Mike Ebbers, Shroff Publishers and Distributers, 2011."
+   ],
+   "reference_books": [
+    "Green Computing and Green IT Best Practice, Jason Harris, Emereo."
+   ],
+   "online_content": [
+    "www.footprintcalculator.com",
+    "Living in Balance with Nature, Sachin Lakra, Kindle Desktop Publishing (online e-book only available at www.amazon.com)."
+   ],
+   "nptel": [
+    "Sustainable Energy Technology: https://onlinecourses.nptel.ac.in/noc25_me178/preview"
+   ],
+   "linkedin": [
+    "Climate Change: A top ESG concern: https://www.linkedin.com/learning/climate-change-a-top-esg-concern/climate-change-is-a-critical-esg-factor?u=109705204",
+    "Corporate Finance: Environmental, Social and Governance(ESG): https://www.linkedin.com/learning/corporate-finance-environmental-social-and-governance-esg",
+    "Learning Design for Sustainability: https://www.linkedin.com/learning/learning-design-for-sustainability",
+    "Employee Engagement-Making Sustainability PArt of Everybody's Job: https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job",
+    "Sustainability for Design, Construction and Manufacturing: https://www.linkedin.com/learning/sustainability-for-design-construction-and-manufacturing"
+   ]
+  },
+  "topic_layout": [
+   {
+    "section": "A",
+    "topics": "Overview and Issues; Initiatives and Standards",
+    "L": "4",
+    "T": "0",
+    "P": "8"
+   },
+   {
+    "section": "B",
+    "topics": "Minimizing Power Usage and Green Datacenters",
+    "L": "4",
+    "T": "0",
+    "P": "8"
+   },
+   {
+    "section": "C",
+    "topics": "Changing the way of work and Recycling",
+    "L": "3",
+    "T": "0",
+    "P": "6"
+   },
+   {
+    "section": "D",
+    "topics": "Greening your Information Systems",
+    "L": "3",
+    "T": "0",
+    "P": "6"
+   }
+  ],
+  "lesson_plan": [
+   {
+    "no": "1",
+    "topic": "Overview and Issues: Problems: Toxins, Power Consumption, Equipment Disposal; Company’s Carbon Footprint: Measuring; Carbon Footprint Calculator (online)",
+    "co": "CSS325B.1",
+    "bt": "BT3",
+    "pedagogy": "",
+    "ict": "LCD Projector",
+    "ai": ""
+   },
+   {
+    "no": "2",
+    "topic": "Plan for the Future; Cost Savings: Hardware, Power.",
+    "co": "CSS325B.1",
+    "bt": "BT3",
+    "pedagogy": "",
+    "ict": "LCD Projector",
+    "ai": ""
+   },
+   {
+    "no": "3",
+    "topic": "Initiatives and Standards: Global Initiatives: United Nations, Basel Action Network, Basel Convention;",
+    "co": "CSS325B.2",
+    "bt": "BT2",
+    "pedagogy": "",
+    "ict": "",
+    "ai": ""
+   },
+   {
+    "no": "4",
+    "topic": "WEEE Directive, Restriction on Hazardous Substances Directive, the Paris Climate Agreement",
+    "co": "CSS325B.2",
+    "bt": "BT2",
+    "pedagogy": "",
+    "ict": "",
+    "ai": ""
+   },
+   {
+    "no": "5",
+    "topic": "Minimizing Power Usage: Power Problems, Monitoring Power Usage, Servers, Low-Cost Options, Reducing Power Use, Data De-Duplication, Virtualization, Management, Low Power Computers, PCs, Linux,",
+    "co": "CSS325B.3",
+    "bt": "BT3",
+    "pedagogy": "",
+    "ict": "",
+    "ai": "AI generated Video using NotebookLM"
+   },
+   {
+    "no": "6",
+    "topic": "Components, Servers, Computer Settings, Storage, Monitors, Power 5Supplies, Wireless Devices, Software.",
+    "co": "CSS325B.3",
+    "bt": "BT3",
+    "pedagogy": "",
+    "ict": "LCD Projector",
+    "ai": ""
+   },
+   {
+    "no": "7",
+    "topic": "Green Data Centers:The benefits of a green data center, developing a strategy, Energy optimization with IT equipment.",
+    "co": "CSS325B.3",
+    "bt": "BT2",
+    "pedagogy": "",
+    "ict": "LCD Projector",
+    "ai": "Mentimeter assessment in class"
+   },
+   {
+    "no": "8",
+    "topic": "Changing the Way of Work: Old Behaviours, starting at the Top, Process Reengineering with Green in Mind, Analysing the Global Impact of Local Actions, Recycling, Energy, Pollutants, Teleworkers, Telecommuting, Outsourcing, how to Outsource, Ethics of Green Computing in Daily Life",
+    "co": "CSS325B.4",
+    "bt": "BT3",
+    "pedagogy": "Flipped Classroom",
+    "ict": "",
+    "ai": "Roleplay using AI avatar"
+   },
+   {
+    "no": "9",
+    "topic": "Recycling: Problems: China, Africa; Materials, Means of Disposal, Recycling, Refurbishing, Recycling Life Cycle, Life of a Product, Cost, Green Design",
+    "co": "CSS325B.2",
+    "bt": "BT2",
+    "pedagogy": "",
+    "ict": "LCD Projector",
+    "ai": ""
+   },
+   {
+    "no": "10",
+    "topic": "Recycling Companies, Certifications, Hard Drive Recycling, Consequences, cleaning a Hard Drive, Pros and cons of each method, CDs and DVDs, good and bad about CDs and DVDs disposal, Change the mind-set.",
+    "co": "CSS325B.2",
+    "bt": "BT3",
+    "pedagogy": "Flipped Classroom",
+    "ict": "",
+    "ai": ""
+   },
+   {
+    "no": "11",
+    "topic": "Greening Your Information Systems: Initial Improvement Calculations, Change Business Processes,",
+    "co": "CSS325B.5",
+    "bt": "BT3",
+    "pedagogy": "",
+    "ict": "LCD Projector",
+    "ai": "Kahoot AI assessment at the end of class"
+   },
+   {
+    "no": "12",
+    "topic": "Customer Interaction, Paper Reduction, Green Supply Chain, Improve Technology Infrastructure, Reduce PCs and Servers, Shared Services, Hardware Costs, Cooling.",
+    "co": "CSS325B.5",
+    "bt": "BT3",
+    "pedagogy": "",
+    "ict": "",
+    "ai": ""
+   },
+   {
+    "no": "13",
+    "topic": "Applications of Green Computing: Energy Efficiency of algorithms, Green Networks, Green Cloud Computing, Green Internet of Things, Green Artificial Intelligence, Relevance to Industry 4.0.",
+    "co": "CSS325B.5",
+    "bt": "BT3",
+    "pedagogy": "",
+    "ict": "",
+    "ai": ""
+   },
+   {
+    "no": "14",
+    "topic": "Green Computing in Ancient India: Balance of life in Indian villages with nature: Use of biomass as fuel, no electricity; devices made of natural materials, absence of e-waste.",
+    "co": "CSS325B.2",
+    "bt": "BT3",
+    "pedagogy": "",
+    "ict": "LCD Projector",
+    "ai": ""
+   }
+  ],
+  "co_po": {
+   "cols": [
+    "PO1",
+    "PO2",
+    "PO3",
+    "PO4",
+    "PO5",
+    "PO6",
+    "PO7",
+    "PO8",
+    "PO9",
+    "PO10",
+    "PO11",
+    "PSO1",
+    "PSO2"
+   ],
+   "rows": [
+    {
+     "co": "CSS325B.1",
+     "values": {
+      "PO6": "2"
+     }
+    },
+    {
+     "co": "CSS325B.2",
+     "values": {
+      "PO2": "2",
+      "PO6": "3",
+      "PO7": "2"
+     }
+    },
+    {
+     "co": "CSS325B.3",
+     "values": {
+      "PO2": "3"
+     }
+    },
+    {
+     "co": "CSS325B.4",
+     "values": {
+      "PO6": "3"
+     }
+    },
+    {
+     "co": "CSS325B.5",
+     "values": {
+      "PO2": "3",
+      "PSO1": "2"
+     }
+    }
+   ]
+  },
+  "co_ksa": [
+   {
+    "co": "CSS325B.1",
+    "wk": "WK5",
+    "sk": "-",
+    "ak": "-",
+    "sdg": "SDG11",
+    "ethics": "-",
+    "skill": "-",
+    "nsqf": "-"
+   },
+   {
+    "co": "CSS325B.2",
+    "wk": "WK7, WK9",
+    "sk": "SK1",
+    "ak": "AK1, AK3, AK4",
+    "sdg": "SDG13",
+    "ethics": "Y",
+    "skill": "1",
+    "nsqf": "-"
+   },
+   {
+    "co": "CSS325B.3",
+    "wk": "WK5",
+    "sk": "SK1",
+    "ak": "-",
+    "sdg": "SDG13",
+    "ethics": "-",
+    "skill": "2",
+    "nsqf": "5"
+   },
+   {
+    "co": "CSS325B.4",
+    "wk": "-",
+    "sk": "SK1",
+    "ak": "AK3",
+    "sdg": "SDG11",
+    "ethics": "-",
+    "skill": "2",
+    "nsqf": "5"
+   },
+   {
+    "co": "CSS325B.5",
+    "wk": "WK5",
+    "sk": "SK1",
+    "ak": "-",
+    "sdg": "SDG11",
+    "ethics": "-",
+    "skill": "2",
+    "nsqf": "5"
+   }
+  ],
+  "assessment_plan": {
+   "tools": [
+    {
+     "name": "QUIZ",
+     "marks": "(2*10=20)"
+    },
+    {
+     "name": "ASSIGNMENT",
+     "marks": "(20)"
+    },
+    {
+     "name": "SEMINAR",
+     "marks": "(10)"
+    },
+    {
+     "name": "END SEM THEORY EXAM",
+     "marks": "(50)"
+    }
+   ],
+   "sections": [
+    {
+     "section": "A",
+     "cos": "CSS325B.1. CSS325B.2.",
+     "weight": "25%",
+     "covers": [
+      true,
+      true,
+      false,
+      true
+     ]
+    },
+    {
+     "section": "B",
+     "cos": "CSS325B.3.",
+     "weight": "25%",
+     "covers": [
+      false,
+      true,
+      true,
+      true
+     ]
+    },
+    {
+     "section": "C",
+     "cos": "CSS325B.4.",
+     "weight": "25%",
+     "covers": [
+      true,
+      false,
+      true,
+      true
+     ]
+    },
+    {
+     "section": "D",
+     "cos": "CSS325B.5. CSS325B.2.",
+     "weight": "25%",
+     "covers": [
+      false,
+      true,
+      true,
+      true
+     ]
+    }
+   ],
+   "total_weightage": [
+    "20%",
+    "20%",
+    "10%",
+    "50%"
+   ]
+  }
+ },
+ "lab": {
+  "title": "GREEN COMPUTING LAB",
+  "code": "CSS325B",
+  "ltpc": "0-0-2-1",
+  "ksa": "WK5-Engineering Design\nWK7-Comprehension\nWK9-Ethics, inclusive behavior and conduct\nSK1-Problem Solving | SK6-Collaboration and Team Work\nAK1-Ethical Responsibility\nAK3-Sustainabilty Awareness\nAK4-Global Awareness",
+  "sdg": "SDG11-Sustainable Cities & Communities\nSDG13-Climate Action\nEthics-Yes\nSkill Levels – Basic (1), Applied (2)\nNSQF Levels – Supervisory (5)",
+  "objective": "Students will be able to comprehend sustainability (AK3, AK4) issues (WK7) and apply (SK1) green computing concepts (WK5) for ethically (AK1, WK9) solving environmental problems (SK6) being caused by computing devices.",
+  "sdg_lines": [
+   "SDG11-Sustainable Cities & Communities",
+   "SDG13-Climate Action",
+   "Ethics-Yes",
+   "Skill Levels – Basic (1), Applied (2)",
+   "NSQF Levels – Supervisory (5)"
+  ],
+  "ksa_lines": [
+   "WK5-Engineering Design",
+   "WK7-Comprehension",
+   "WK9-Ethics, inclusive behavior and conduct",
+   "SK1-Problem Solving",
+   "SK6-Collaboration and Team Work",
+   "AK1-Ethical Responsibility",
+   "AK3-Sustainabilty Awareness",
+   "AK4-Global Awareness"
+  ],
+  "cos": [
+   {
+    "id": "CSS325B.1",
+    "text": "Analyze the impact of using computing devices (WK7) on the environment (SK1) thereby finding ethical solutions (AK1, WK9) for real world problems.",
+    "mapping": "Skill Development and Employment"
+   },
+   {
+    "id": "CSS325B.2",
+    "text": "Solve (SK1, SK6) case-based problems on relevant and emerging areas of environmental sustainability (AK3, AK4, WK5).",
+    "mapping": "Skill Development and Employment"
+   }
+  ],
+  "relevance": "Comprehending that an observed phenomenon is actually an environmental problem looming at the horizon and understanding the reasons for it to bring focus on the real issue is an ability which is essential for any green computing student. This identification can have far-reaching consequences in saving Nature from potential calamities, some of which may be unknowingly borne by humanity. Not only this, finding solutions to these problems becomes even more essential to help maintain Natural Balance. The focus of this course is to help students learn these abilities with the help of case-based problems from diverse disciplines.",
+  "books": {
+   "text_books": [
+    "Green IT, Toby Velte, Anthony Velte, Robert Elsenpeter, McGraw Hill, 2008.",
+    "Green Data Center: Steps for the Journey Alvin Galea, Michael Schaefer, Mike Ebbers, Shroff Publishers and Distributers, 2011."
+   ],
+   "reference_books": [
+    "Green Computing and Green IT Best Practice, Jason Harris, Emereo."
+   ],
+   "online_content": [
+    "www.footprintcalculator.com",
+    "Living in Balance with Nature, Sachin Lakra, Kindle Desktop Publishing (online e-book only available at www.amazon.com)."
+   ],
+   "nptel": [
+    "Sustainable Energy Technology: https://onlinecourses.nptel.ac.in/noc25_me178/preview"
+   ],
+   "linkedin": [
+    "Climate Change: A top ESG concern: https://www.linkedin.com/learning/climate-change-a-top-esg-concern/climate-change-is-a-critical-esg-factor?u=109705204",
+    "Corporate Finance: Environmental, Social and Governance(ESG): https://www.linkedin.com/learning/corporate-finance-environmental-social-and-governance-esg",
+    "Learning Design for Sustainability: https://www.linkedin.com/learning/learning-design-for-sustainability",
+    "Employee Engagement-Making Sustainability PArt of Everybody's Job: https://www.linkedin.com/learning/employee-engagement-making-sustainability-part-of-everybody-s-job",
+    "Sustainability for Design, Construction and Manufacturing: https://www.linkedin.com/learning/sustainability-for-design-construction-and-manufacturing"
+   ]
+  },
+  "lesson_plan": [
+   {
+    "no": "1",
+    "topic": "Assignment 1 on basics concepts of Green Computing",
+    "co": "CSS325B.1",
+    "bt": "BT3",
+    "pedagogy": "",
+    "ict": "",
+    "ai": "Red Light (Declare that AI has NOT been used)"
+   },
+   {
+    "no": "2",
+    "topic": "Case-based Problem on Carbon Footprints",
+    "co": "CSS325B.1",
+    "bt": "BT3",
+    "pedagogy": "Case based Learning",
+    "ict": "LCD Projector",
+    "ai": "Yellow Light (Declare that AI has been used)"
+   },
+   {
+    "no": "3",
+    "topic": "Assignment 2 on Carbon Footprints",
+    "co": "CSS325B.1",
+    "bt": "BT2",
+    "pedagogy": "",
+    "ict": "",
+    "ai": "Red Light (Declare that AI has NOT been used)"
+   },
+   {
+    "no": "4",
+    "topic": "Case-based Problem 2 on Robots, Humanity and Society",
+    "co": "CSS325B.1",
+    "bt": "BT2",
+    "pedagogy": "Case based Learning",
+    "ict": "LCD Projector",
+    "ai": "Green Light (Can use ChatGPT/ Gemini, etc)"
+   },
+   {
+    "no": "5",
+    "topic": "Assignment 3 on Robots, Humanity and Society",
+    "co": "CSS325B.1",
+    "bt": "BT3",
+    "pedagogy": "",
+    "ict": "",
+    "ai": "Red Light (Declare that AI has NOT been used)"
+   },
+   {
+    "no": "6",
+    "topic": "Case-based Problem 3 on Robots and Nature",
+    "co": "CSS325B.1",
+    "bt": "BT3",
+    "pedagogy": "Case based Learning",
+    "ict": "LCD Projector",
+    "ai": "Red Light (Declare that AI has NOT been used)"
+   },
+   {
+    "no": "7",
+    "topic": "Assignment 4 on Robots and Nature",
+    "co": "CSS325B.1",
+    "bt": "BT2",
+    "pedagogy": "",
+    "ict": "",
+    "ai": "Red Light (Declare that AI has NOT been used)"
+   },
+   {
+    "no": "8",
+    "topic": "Case-based Problem 4 on Power Consumption Management",
+    "co": "CSS325B.1",
+    "bt": "BT3",
+    "pedagogy": "Case based Learning",
+    "ict": "LCD Projector",
+    "ai": "Green Light"
+   },
+   {
+    "no": "9",
+    "topic": "Assignment 5 on Power Consumption Management",
+    "co": "CSS325B.1",
+    "bt": "BT2",
+    "pedagogy": "",
+    "ict": "",
+    "ai": "Red Light (Declare that AI has NOT been used)"
+   },
+   {
+    "no": "10",
+    "topic": "Case-based Problem 5 on Data Centers of Google",
+    "co": "CSS325B.1",
+    "bt": "BT3",
+    "pedagogy": "Case based Learning",
+    "ict": "LCD Projector",
+    "ai": "Yellow Light (Declare that AI has been used)"
+   },
+   {
+    "no": "11",
+    "topic": "Assignment 6 on Data Centers of Google",
+    "co": "CSS325B.1",
+    "bt": "BT3",
+    "pedagogy": "",
+    "ict": "",
+    "ai": "Red Light (Declare that AI has NOT been used)"
+   },
+   {
+    "no": "12",
+    "topic": "Case-based Problem 6 on Recycling Hard Drives",
+    "co": "CSS325B.1",
+    "bt": "BT3",
+    "pedagogy": "Case based Learning",
+    "ict": "LCD Projector",
+    "ai": "Yellow Light (Declare that AI has been used)"
+   },
+   {
+    "no": "13",
+    "topic": "Assignment 7 on Recycling Hard Drives",
+    "co": "CSS325B.1",
+    "bt": "BT3",
+    "pedagogy": "",
+    "ict": "",
+    "ai": "Red Light (Declare that AI has NOT been used)"
+   },
+   {
+    "no": "14",
+    "topic": "Case-based Problem Development and Presentation",
+    "co": "CSS325B.2",
+    "bt": "BT3",
+    "pedagogy": "Case based Learning",
+    "ict": "LCD Projector",
+    "ai": "Green Light for using AI but students need to present what has been prepared as part of the assessment"
+   }
+  ],
+  "experiments": [
+   "Assignment 1 on basics concepts of Green Computing",
+   "Case-based problem 1 on Carbon Footprints",
+   "Assignment 2 on Carbon Footprints",
+   "Case-based problem 2 on Robots, Humanity and Society",
+   "Assignment 3 on Robots, Humanity and Society",
+   "Case-based problem 3 on Robots and Nature",
+   "Assignment 4 on Robots and Nature",
+   "Case-based problem 4 on GC Efforts in USA",
+   "Assignment 5 on GC Efforts in USA",
+   "Case-based problem 5 on Power Consumption Management",
+   "Assignment 6 on Power Consumption Management",
+   "Case-based problem 6 on Data Centers of Google",
+   "Assignment 7 on Data Centers of Google",
+   "Case-based problem 7 on Recycling Hard Drives",
+   "Assignment 8 on Recycling Hard Drives",
+   "Case-based problem Development and Presentation"
+  ],
+  "co_po": {
+   "cols": [
+    "PO1",
+    "PO2",
+    "PO3",
+    "PO4",
+    "PO5",
+    "PO6",
+    "PO7",
+    "PO8",
+    "PO9",
+    "PO10",
+    "PO11",
+    "PSO1",
+    "PSO2"
+   ],
+   "rows": [
+    {
+     "co": "CSS325B.1",
+     "values": {
+      "PO2": "2",
+      "PO6": "2"
+     }
+    },
+    {
+     "co": "CSS325B.2",
+     "values": {
+      "PO2": "3",
+      "PO3": "2",
+      "PO6": "3",
+      "PSO2": "2"
+     }
+    }
+   ]
+  },
+  "co_ksa": [
+   {
+    "co": "CSS325B.1.",
+    "wk": "WK7, WK9",
+    "sk": "SK1",
+    "ak": "AK1",
+    "sdg": "SDG11",
+    "ethics": "-",
+    "skill": "2",
+    "nsqf": "5"
+   },
+   {
+    "co": "CSS325B.2.",
+    "wk": "WK5",
+    "sk": "SK1, SK6",
+    "ak": "AK3, AK4",
+    "sdg": "SDG13",
+    "ethics": "Y",
+    "skill": "2",
+    "nsqf": "5"
+   }
+  ],
+  "assessment_plan": {
+   "tools": [
+    {
+     "name": "Lab Performance",
+     "marks": "(10)"
+    },
+    {
+     "name": "Mid-term Prac Exam",
+     "marks": "(10)"
+    },
+    {
+     "name": "Case based Solution + Presentation",
+     "marks": "(10)"
+    },
+    {
+     "name": "End Sem Prac Exam",
+     "marks": "(20)"
+    }
+   ],
+   "sections": [
+    {
+     "section": "A",
+     "cos": "CSS325B.1. CSS325B.2.",
+     "weight": "25%",
+     "covers": [
+      true,
+      true,
+      false,
+      true
+     ]
+    },
+    {
+     "section": "B",
+     "cos": "CSS325B.1 CSS325B.2",
+     "weight": "25%",
+     "covers": [
+      true,
+      true,
+      false,
+      true
+     ]
+    },
+    {
+     "section": "C",
+     "cos": "CSS325B.2",
+     "weight": "25%",
+     "covers": [
+      false,
+      false,
+      true,
+      true
+     ]
+    },
+    {
+     "section": "D",
+     "cos": "CSS325B.2",
+     "weight": "25%",
+     "covers": [
+      false,
+      false,
+      true,
+      true
+     ]
+    }
+   ],
+   "total_weightage": [
+    "20%",
+    "20%",
+    "10%",
+    "50%"
+   ]
+  }
+ },
+ "assignments": [
+  {
+   "title": "Assignment 1",
+   "header": {
+    "Program / Semester": "Core: for B Tech R & AI5",
+    "Course Code": "CSS325B",
+    "Course Name": "Green Computing",
+    "Course Outcome": "CSS325B.1. Describe the basic concepts of green computing and e-waste management (WK5).",
+    "Course KSA Elements": "WK5-Engineering Design",
+    "Skill Level and Skill Outcome": "Level 1-Basic",
+    "SDGs/Ethics": "SDG11- Sustainable Cities & Communities"
+   },
+   "learning_outcome": "Understand the basics of Green Computing.",
+   "questions": [
+    {
+     "no": "Q1.",
+     "text": "Define Green Computing.",
+     "bt": "BT1",
+     "co": "CSS325B.1"
+    },
+    {
+     "no": "Q2.",
+     "text": "Define E-Waste. Identify and list out 5 types of E-Waste being produced by the use of devices. Also give the impact of each of these on the environment.",
+     "bt": "BT2",
+     "co": "CSS325B.1"
+    },
+    {
+     "no": "Q3.",
+     "text": "Identify and list out at least 5 toxins produced by computers. Describe the effects of each of these on human beings and the environment.",
+     "bt": "BT2",
+     "co": "CSS325B.1"
+    }
+   ]
+  },
+  {
+   "title": "Assignment 2",
+   "header": {
+    "Program / Semester": "Core: for, B Tech R & AI5",
+    "Course Code": "CSS325B",
+    "Course Name": "Green Computing",
+    "Course Outcome": "CSS325B.1. Describe the basic concepts of green computing and e-waste management (WK5).",
+    "Course KSA Elements": "WK5-Engineering Design",
+    "Skill Level and Skill Outcome": "Level 1-Applied",
+    "SDGs/Ethics": "SDG11- Sustainable Cities & Communities"
+   },
+   "learning_outcome": "Calculate Carbon Footprints.",
+   "questions": [
+    {
+     "no": "Q1.",
+     "text": "What are the steps you will follow to calculate the carbon footprint of a desktop PC? Explain with an example.",
+     "bt": "BT2",
+     "co": "CSS325B.1"
+    },
+    {
+     "no": "Q2.",
+     "text": "The following is a questionnaire which is to be answered on the basis of scores as assigned.\n\nSCORE for each answer:\nYes = 2\nPartially, presently discussing this = 1\nNo = 0\nQuestionnaire on “HOW GREEN IS YOUR COLLEGE”?\n1. Does your college have a recycling programme for its waste paper, cardboard, cans and bottles?\n2. Does the college have a policy to use recycled paper?\n3. Does your college seek to avoid the use of disposable paper, plastic, foam cups and plates?\n4. Has the college eliminated the use of aerosol sprays and fire extinguishers that contain CFCs?\n5. Does the college have an active policy and strategy to reduce its water consumption?\n6. Does the college use environmentally-friendly cleaning liquids?\n7. Does the college avoid the use of garden and household pesticides, using environmentally-friendly alternatives instead?\n8. Does the college have an active policy and strategy to reduce its energy consumption?\n9. Does the kitchen offer a choice of healthy foods, and discourage students from eating “junk” foods?\n10. Does the kitchen collect its food waste to turn it into compost, or use it to feed dogs or pigs?\n11. Does the college have houseplants in rooms and corridors?\n12. Is the college making an effort to beautify its grounds?\n13. Does the college provide environmental education and project-work for students and staff?\n14. Does the college get involved in local environmental activities (both staff and students)?\n15. Does the college invite speakers to talk to all about the environment and its problems?\n16. Does the college library ever hold special exhibitions of books, magazines about the world environmental crisis?\n17. Does the college have an environmental club or society?\n18. Has your college ever undertaken an environmental audit of its activities and courses?\n19. Has your college set up an Environmental action team to look into the kinds of actions which it could take?\n20. Does the college encourage staff and students to take a positive attitude, building the belief that we CAN make a difference?\n\nAdd up the scores for each answer above and check the level of greenness of your college.\nREPORT CARD\n35-40 = You are doing excellently!! Take a Green Medal!!\n30-35 = You are doing quite well!\n20-30 = You have made a start, but you are not yet a green college.\n0-20 = Plenty of room for improvement, must do better next term!\nOur college score is:",
+     "bt": "BT2",
+     "co": "CSS325B.1"
+    },
+    {
+     "no": "Q3.",
+     "text": "Go to the website www.footprintcalculator.org and complete the calculator’s questions to check your own carbon footprint.\nBased on the above calculations, fill the following values:\nMy Earth Overshoot Day is on :\nWe will require ________ Earth like planets to live if everyone followed my lifestyle.",
+     "bt": "BT2",
+     "co": "CSS325B.1"
+    },
+    {
+     "no": "Q4.",
+     "text": "Identify the generic steps to calculate the Carbon footprint of any entity in general.",
+     "bt": "BT2",
+     "co": "CSS325B.1"
+    },
+    {
+     "no": "Q5.",
+     "text": "Discuss the impact due to power consumption by desktops and data centers, in terms of their carbon footprint.",
+     "bt": "BT2",
+     "co": "CSS325B.1"
+    }
+   ]
+  },
+  {
+   "title": "Assignment 3",
+   "header": {
+    "Program / Semester": "Core: for B Tech R & AI5",
+    "Course Code": "CSS325B",
+    "Course Name": "Green Computing",
+    "Course Outcome": "CSS325B.2. Describe environmental problems being caused by electronic devices (WK7) and their ethical (AK1, WK9) and sustainable solutions (SK1, AK3, AK4).",
+    "Course KSA Elements": "WK7-Comprehension\nWK9- Ethics, inclusive behavior and conduct\nSK1-Problem Solving AK1-Ethical Responsibility\nAK3-Sustainabilty Awareness\nAK4-Global Awareness",
+    "Skill Level and Skill Outcome": "Level 1-Basic, SK1-Problem solving",
+    "SDGs/Ethics": "SDG11- Sustainable Cities & Communities\nSDG13-Climate Action\nEthics-Yes"
+   },
+   "learning_outcome": "Understand worldwide efforts of Green Computing.",
+   "questions": [
+    {
+     "no": "Q1.",
+     "text": "What are the efforts being made across the world to apply Green Computing practices? Name any 5 such global initiatives.",
+     "bt": "BT1",
+     "co": "CSS325B.2"
+    },
+    {
+     "no": "Q2.",
+     "text": "What are the efforts being made in India towards following green computing techniques?",
+     "bt": "BT1",
+     "co": "CSS325B.2"
+    },
+    {
+     "no": "Q3.",
+     "text": "What are the efforts being made in India towards e-waste management?",
+     "bt": "BT1",
+     "co": "CSS325B.2"
+    },
+    {
+     "no": "Q4.",
+     "text": "What is the WEEE directive? What are the types of E-waste listed in this directive?",
+     "bt": "BT1",
+     "co": "CSS325B.2"
+    },
+    {
+     "no": "Q5.",
+     "text": "What is the RoHS directive?",
+     "bt": "BT1",
+     "co": "CSS325B.2"
+    },
+    {
+     "no": "Q6.",
+     "text": "Why does the Paris Climate agreement consider recycling and reducing e-waste as important as other types of waste management?",
+     "bt": "BT2",
+     "co": "CSS325B.2"
+    },
+    {
+     "no": "Q7.",
+     "text": "Prepare a presentation on one of the following topics for the efforts being made in India towards\na) E-waste management b) Green Computing",
+     "bt": "BT2",
+     "co": "CSS325B.2"
+    }
+   ]
+  },
+  {
+   "title": "Assignment 4",
+   "header": {
+    "Program / Semester": "Core: for B Tech R & AI5",
+    "Course Code": "CSS325B",
+    "Course Name": "Green Computing",
+    "Course Outcome": "CSS325B.3. Apply (SK1) power management techniques in computers and datacenters (WK5).",
+    "Course KSA Elements": "WK5-Engineering Design",
+    "Skill Level and Skill Outcome": "Level 2-Applied, SK1-Problem Solving",
+    "SDGs/Ethics": "SDG13-Climate Action"
+   },
+   "learning_outcome": "Solve power Consumption issues in Green Computing.",
+   "questions": [
+    {
+     "no": "Q1.",
+     "text": "What is the effect of power consumption by computers and other devices on the environment directly? Give the indirect impact of power consumption also.",
+     "bt": "BT2",
+     "co": "CSS325B.3"
+    },
+    {
+     "no": "Q2.",
+     "text": "How will you plan for the future when deciding on what appliances to buy for your household? What are the factors which you will keep in mind to make this decision?",
+     "bt": "BT3",
+     "co": "CSS325B.3"
+    },
+    {
+     "no": "Q3.",
+     "text": "What are the techniques which can be used to reduce power consumption by computers? Describe each briefly.",
+     "bt": "BT2",
+     "co": "CSS325B.3"
+    },
+    {
+     "no": "Q4.",
+     "text": "What are the methods by which computer power usage by human beings can be managed?",
+     "bt": "BT2",
+     "co": "CSS325B.3"
+    },
+    {
+     "no": "Q5.",
+     "text": "List at least 5 components of computers which consume power and state the techniques by which the power consumption by each can be reduced.",
+     "bt": "BT1",
+     "co": "CSS325B.3"
+    },
+    {
+     "no": "Q6.",
+     "text": "Create a Case Study in Microsoft Word, on either one of the following topics:\n a) Energy-efficient software\n b) Making hardware more energy-efficient.",
+     "bt": "BT3",
+     "co": "CSS325B.3"
+    }
+   ]
+  },
+  {
+   "title": "Assignment 5",
+   "header": {
+    "Program / Semester": "Core: for B Tech R & AI5",
+    "Course Code": "CSS325B",
+    "Course Name": "Green Computing",
+    "Course Outcome": "CSS325B.4. Apply (SK1) techniques of how to follow an environment-friendly lifestyle at work (AK3).",
+    "Course KSA Elements": "SK1-Problem Solving AK3-Sustainability Awareness",
+    "Skill Level and Skill Outcome": "Level 2-Applied, SK1-Problem Solving",
+    "SDGs/Ethics": "SDG11- Sustainable Cities & Communities"
+   },
+   "learning_outcome": "Understand the impact of human actions and changing them to maintain ecological balance.",
+   "questions": [
+    {
+     "no": "Q1.",
+     "text": "What are the global impacts of local actions in the context of the issue of CO2 emissions across the Earth? Explain with the help of an example.",
+     "bt": "BT2",
+     "co": "CSS325B.4"
+    },
+    {
+     "no": "Q2.",
+     "text": "List out the various non-IT parts of an organization which can be made green. Explain how each of these parts can be made green.",
+     "bt": "BT2",
+     "co": "CSS325B.4"
+    },
+    {
+     "no": "Q3.",
+     "text": "What is telecommuting? Differentiate between telecommuting and outsourcing.",
+     "bt": "BT2",
+     "co": "CSS325B.4"
+    },
+    {
+     "no": "Q4.",
+     "text": "Explain how telecommuting can be implemented. Also, analyze the impact of telecommuting on an organization’s carbon footprint.",
+     "bt": "BT3",
+     "co": "CSS325B.4"
+    },
+    {
+     "no": "Q5.",
+     "text": "Prepare a case study on the techniques and technology being developed or being used for the enhancement of the energy efficiency of a Data center to the maximum extent possible.",
+     "bt": "BT3",
+     "co": "CSS325B.4"
+    }
+   ]
+  },
+  {
+   "title": "Assignment 6",
+   "header": {
+    "Program / Semester": "Core: for B Tech R & AI5",
+    "Course Code": "CSS325B",
+    "Course Name": "Green Computing",
+    "Course Outcome": "CSS325B.2. Describe environmental problems being caused by electronic devices (WK7) and their ethical (AK1, WK9) and sustainable solutions (SK1, AK3, AK4).",
+    "Course KSA Elements": "WK7-Comprehension\nWK9- Ethics, inclusive behavior and conduct\nSK1-Problem Solving AK1-Ethical Responsibility\nAK3-Sustainabilty Awareness\nAK4-Global Awareness",
+    "Skill Level and Skill Outcome": "Level 1-Basic, SK1-Problem solving",
+    "SDGs/Ethics": "SDG11- Sustainable Cities & Communities\nSDG13-Climate Action\nEthics-Yes"
+   },
+   "learning_outcome": "Learning the methods of recycling of computers.",
+   "questions": [
+    {
+     "no": "Q1.",
+     "text": "What are the problems which are created due to the improper disposal of e-waste? Do these problems exist in India and your city also?",
+     "bt": "BT3",
+     "co": "CSS325B.2"
+    },
+    {
+     "no": "Q2.",
+     "text": "What are the methods of disposing off old computers? Differentiate between refurbishing and recycling.",
+     "bt": "BT2",
+     "co": "CSS325B.2"
+    },
+    {
+     "no": "Q3.",
+     "text": "Give a checklist of questions to consider when looking for a recycler.",
+     "bt": "BT2",
+     "co": "CSS325B.2"
+    },
+    {
+     "no": "Q4.",
+     "text": "Explain the life cycle of a product along with a diagram.",
+     "bt": "BT2",
+     "co": "CSS325B.2"
+    },
+    {
+     "no": "Q5.",
+     "text": "Prepare a case study on any one of the following topics:\n a) Process of Recycling of plastics\n b) Process of Recycling of batteries",
+     "bt": "BT3",
+     "co": "CSS325B.2"
+    }
+   ]
+  },
+  {
+   "title": "Assignment 7",
+   "header": {
+    "Program / Semester": "Core: for B Tech R & AI5",
+    "Course Code": "CSS325B",
+    "Course Name": "Green Computing",
+    "Course Outcome": "CSS325B.5. Analyze (SK1) how to make information systems green (WK5).",
+    "Course KSA Elements": "WK5-Engineering Design SK1-Problem solving",
+    "Skill Level and Skill Outcome": "Level 2-Applied",
+    "SDGs/Ethics": "SDG11- Sustainable Cities & Communities"
+   },
+   "learning_outcome": "Making an information system and a supply chain green.",
+   "questions": [
+    {
+     "no": "Q1.",
+     "text": "How can an information system’s software be made green?",
+     "bt": "BT2",
+     "co": "CSS325B.5"
+    },
+    {
+     "no": "Q2.",
+     "text": "Name 3 metrics which can be useful for gauging the progress of an organization towards going green. Also give their mathematical expressions.",
+     "bt": "BT1",
+     "co": "CSS325B.5"
+    },
+    {
+     "no": "Q3.",
+     "text": "How can the Customer Relationship Management process be made greener? Explain with the help of a diagram.",
+     "bt": "BT3",
+     "co": "CSS325B.5"
+    },
+    {
+     "no": "Q4.",
+     "text": "How can technology infrastructure be improved in the context of making it green?",
+     "bt": "BT3",
+     "co": "CSS325B.5"
+    },
+    {
+     "no": "Q5.",
+     "text": "Prepare a case study in any one of the following:\n a) Green Information Systems\n b) Green Operating Systems",
+     "bt": "BT3",
+     "co": "CSS325B.5"
+    }
+   ]
+  },
+  {
+   "title": "Assignment 8",
+   "header": {
+    "Program / Semester": "Core: for B Tech R & AI5",
+    "Course Code": "CSS325B",
+    "Course Name": "Green Computing",
+    "Course Outcome": "CSS325B.4. Apply (SK1) techniques of how to follow an environment-friendly lifestyle at work (AK3).",
+    "Course KSA Elements": "SK1-Problem Solving AK3-Sustainability Awareness",
+    "Skill Level and Skill Outcome": "Level 2-Applied, SK1-Problem Solving",
+    "SDGs/Ethics": "SDG11- Sustainable Cities & Communities"
+   },
+   "learning_outcome": "Understand the Expected Impact of Robots on Humanity and Society.",
+   "questions": [
+    {
+     "no": "Q1.",
+     "text": "What is the future of robotics expected to be \nin 10-15 years from today? \nin 50-100 years from today?\nIn 1000-2000 years from today?",
+     "bt": "BT2",
+     "co": "CSS325B.5"
+    },
+    {
+     "no": "Q2.",
+     "text": "What will be the impact of robots on society?",
+     "bt": "BT2",
+     "co": "CSS325B.5"
+    },
+    {
+     "no": "Q3.",
+     "text": "What will be the impact of robotics on the environment? How can this impact be mitigated?",
+     "bt": "BT3",
+     "co": "CSS325B.5"
+    },
+    {
+     "no": "Q4.",
+     "text": "Prepare a case study on any one of the following topics:\n Responsible AI and Robots\n OR\n Robots in Human Society",
+     "bt": "BT3",
+     "co": "CSS325B.5"
+    }
+   ]
+  },
+  {
+   "title": "Assignment 9",
+   "header": {
+    "Program / Semester": "Core: for B Tech R & AI5",
+    "Course Code": "CSS325B",
+    "Course Name": "Green Computing",
+    "Course Outcome": "CSS325B.4. Apply (SK1) techniques of how to follow an environment-friendly lifestyle at work (AK3).",
+    "Course KSA Elements": "SK1-Problem Solving AK3-Sustainability Awareness",
+    "Skill Level and Skill Outcome": "Level 2-Applied, SK1-Problem Solving",
+    "SDGs/Ethics": "SDG11- Sustainable Cities & Communities"
+   },
+   "learning_outcome": "Understand the Expected Impact of Robots on Nature.",
+   "questions": [
+    {
+     "no": "Q1.",
+     "text": "How can future robots help nature?",
+     "bt": "BT3",
+     "co": "CSS325B.4"
+    },
+    {
+     "no": "Q2.",
+     "text": "What mistake have we made because of which machines do not take into account how their use can impact nature?",
+     "bt": "BT3",
+     "co": "CSS325B.4"
+    },
+    {
+     "no": "Q3.",
+     "text": "How can we develop robots which will be able to maintain balance with nature?",
+     "bt": "BT3",
+     "co": "CSS325B.4"
+    },
+    {
+     "no": "Q4.",
+     "text": "Prepare a case study on any one of the following:\n Machines vs nature\n OR\n Impact of science on nature",
+     "bt": "BT3",
+     "co": "CSS325B.4"
+    }
+   ]
+  }
+ ],
+ "end_term": {
+  "title": "End Term Examination, December-2025",
+  "semester": "V / VII",
+  "date": "12/DEC/2025 MORNING",
+  "program": "B TECH CSE7 & AIML7/ CDFD7/CSTI7 & ME5/R&AI5",
+  "credits": "1",
+  "duration": "90 MINUTES",
+  "max_marks": "50",
+  "ksa_coverage": [
+   [
+    "WK5-Engineering Design",
+    "CO1, 3, 5",
+    "AK3-Sustainabilty Awareness",
+    "CO2, 4"
+   ],
+   [
+    "WK7-Comprehension",
+    "CO2",
+    "AK4-Global Awareness",
+    "CO2"
+   ],
+   [
+    "WK9-Ethics, inclusive behavior and conduct",
+    "CO2",
+    "SDG11-Sustainable Cities & Communities",
+    "CO1, 4, 5"
+   ],
+   [
+    "SK1-Problem Solving",
+    "CO2, 3, 4, 5",
+    "SDG13-Climate Action",
+    "CO2, 3"
+   ],
+   [
+    "AK1-Ethical Responsibility",
+    "CO2",
+    "Ethics",
+    "CO2"
+   ]
+  ],
+  "parts": [
+   {
+    "name": "PART – A (25 Marks)",
+    "questions": [
+     {
+      "no": "Q1a",
+      "text": "State the Global Green Mantra.",
+      "marks": "2",
+      "co": "CO2",
+      "bt": "BT1"
+     },
+     {
+      "no": "Q1b",
+      "text": "State 3 purposes for measuring the carbon footprint of a household.",
+      "marks": "3",
+      "co": "CO4",
+      "bt": "BT2"
+     },
+     {
+      "no": "Q2a",
+      "text": "What does “Being Green” mean to you as an individual in the context of using devices? State 2 aspects.",
+      "marks": "2",
+      "co": "CO1",
+      "bt": "BT2"
+     },
+     {
+      "no": "Q2b",
+      "text": "State 3 purposes for measuring the carbon footprint of a household.",
+      "marks": "3",
+      "co": "CO4",
+      "bt": "BT2"
+     },
+     {
+      "no": "Q3",
+      "text": "State 2 ways in which e-waste is harmful to the environment. How can we dispose of e-waste safely?",
+      "marks": "2+3",
+      "co": "CO1",
+      "bt": "BT3"
+     },
+     {
+      "no": "Q4",
+      "text": "Name any 3 global initiatives for solving the problems linked to e-waste. What is the impact of these initiatives?",
+      "marks": "3+2",
+      "co": "CO2",
+      "bt": "BT2"
+     },
+     {
+      "no": "Q5",
+      "text": "How can the use of many physical servers be reduced with the help of virtualization? Name the software used to implement virtualization of physical servers.",
+      "marks": "4+1",
+      "co": "CO3",
+      "bt": "BT3"
+     }
+    ]
+   },
+   {
+    "name": "PART – B (25 Marks)",
+    "questions": [
+     {
+      "no": "Q6",
+      "text": "Which 2 global companies use data centers? State 3 ways in which a data center can be made green.",
+      "marks": "2+3",
+      "co": "CO3",
+      "bt": "BT2"
+     },
+     {
+      "no": "Q7",
+      "text": "Analyze how the actions of many individuals, who use their respective laptops, can cause an impact on the global scale by contributing to global warming.",
+      "marks": "5",
+      "co": "CO4",
+      "bt": "BT4"
+     },
+     {
+      "no": "Q8",
+      "text": "Differentiate between working from home and working in office with the help of examples.",
+      "marks": "5",
+      "co": "CO4",
+      "bt": "BT2"
+     },
+     {
+      "no": "Q9",
+      "text": "How can the use of an information management software for employee attendance and salary disbursal help to make an office greener? Explain.",
+      "marks": "5",
+      "co": "CO5",
+      "bt": "BT2"
+     },
+     {
+      "no": "Q10",
+      "text": "“Introducing robots in our society will be harmful for the environment.” Do you agree with this statement? Justify your answer.",
+      "marks": "5",
+      "co": "CO2",
+      "bt": "BT3"
+     }
+    ]
+   }
+  ]
+ }
+}
